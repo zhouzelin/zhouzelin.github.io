@@ -130,6 +130,7 @@ window.onload=function starttime(){
 
     function time(obj,futimg){
         var nowtime = new Date().getTime(); // 现在时间转换为时间戳
+        alert(nowtime)
         var futruetime =  new Date(futimg).getTime(); // 未来时间转换为时间戳
         var msec = nowtime-futruetime; // 毫秒 未来时间-现在时间
         var time = (msec/1000);  // 毫秒/1000
