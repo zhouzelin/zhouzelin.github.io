@@ -18772,7 +18772,7 @@
 				"is_systpl": 1,
 				"special": 0,
 				"type": 2,
-				"music": "https://res.huanqing365.com/upload/audios/20181113/bb911be55fc547875a2f9335b4df645e.mp3",
+				"music": "https://zhouzelin.github.io/lovephoto/assets/audios/wanghouyusheng.mp3",
 				"music_name": "李贰叁-往后余生01.mp3",
 				"is_watermark": 1,
 				"out_userid": null,
