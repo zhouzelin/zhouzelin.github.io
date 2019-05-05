@@ -20180,7 +20180,7 @@
 					"type": "picture",
 					"content": "",
 					"ratate": "",
-					"src": "https://res.huanqing365.com/upload/resouces/2018/1025/list/03b1070352bf4fd017d12a1b82dc9ac1.png",
+					"src": "https://zhouzelin.github.io/assets/images/03b1070352bf4fd017d12a1b82dc9ac1.png",
 					"out": {
 						"css": {
 							"backgroundColor": "",
