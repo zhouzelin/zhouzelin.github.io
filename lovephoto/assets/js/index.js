@@ -20234,7 +20234,7 @@
 					"type": "picture",
 					"content": "",
 					"ratate": "",
-					"src": "https://zhouzelin.github.io/assets/images/233cda513018a8f96cdf26f60ed52ecf.png",
+					"src": "https://zhouzelin.github.io/lovephoto/assets/images/233cda513018a8f96cdf26f60ed52ecf.png",
 					"out": {
 						"css": {
 							"backgroundColor": "",
